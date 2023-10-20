@@ -3,6 +3,6 @@
 using namespace std;
 
 int main() {
-    cout << "Hello KBTU!";
+    cout << "Hello KBTU! ";
     return 0;
 }
